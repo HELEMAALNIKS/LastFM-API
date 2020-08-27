@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lastfm-api/static/css/main.5f361e03.chunk.css",
-    "main.js": "/lastfm-api/static/js/main.45ec720b.chunk.js",
-    "main.js.map": "/lastfm-api/static/js/main.45ec720b.chunk.js.map",
-    "runtime-main.js": "/lastfm-api/static/js/runtime-main.d40e724d.js",
-    "runtime-main.js.map": "/lastfm-api/static/js/runtime-main.d40e724d.js.map",
-    "static/js/2.3f5141ff.chunk.js": "/lastfm-api/static/js/2.3f5141ff.chunk.js",
-    "static/js/2.3f5141ff.chunk.js.map": "/lastfm-api/static/js/2.3f5141ff.chunk.js.map",
-    "index.html": "/lastfm-api/index.html",
-    "precache-manifest.231882b22dce13d57b8fe9cc94d5c3f1.js": "/lastfm-api/precache-manifest.231882b22dce13d57b8fe9cc94d5c3f1.js",
-    "service-worker.js": "/lastfm-api/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/lastfm-api/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.3f5141ff.chunk.js.LICENSE.txt": "/lastfm-api/static/js/2.3f5141ff.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/lastfm-api/static/media/logo.5d5d9eef.svg"
+    "main.css": "/LastFM-API/static/css/main.5f361e03.chunk.css",
+    "main.js": "/LastFM-API/static/js/main.67b1d8bb.chunk.js",
+    "main.js.map": "/LastFM-API/static/js/main.67b1d8bb.chunk.js.map",
+    "runtime-main.js": "/LastFM-API/static/js/runtime-main.b41ef73b.js",
+    "runtime-main.js.map": "/LastFM-API/static/js/runtime-main.b41ef73b.js.map",
+    "static/js/2.3f5141ff.chunk.js": "/LastFM-API/static/js/2.3f5141ff.chunk.js",
+    "static/js/2.3f5141ff.chunk.js.map": "/LastFM-API/static/js/2.3f5141ff.chunk.js.map",
+    "index.html": "/LastFM-API/index.html",
+    "precache-manifest.470d039c069b8bc92a87a3f778a3449c.js": "/LastFM-API/precache-manifest.470d039c069b8bc92a87a3f778a3449c.js",
+    "service-worker.js": "/LastFM-API/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/LastFM-API/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3f5141ff.chunk.js.LICENSE.txt": "/LastFM-API/static/js/2.3f5141ff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/LastFM-API/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d40e724d.js",
+    "static/js/runtime-main.b41ef73b.js",
     "static/js/2.3f5141ff.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.45ec720b.chunk.js"
+    "static/js/main.67b1d8bb.chunk.js"
   ]
 }
